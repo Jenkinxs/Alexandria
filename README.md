@@ -15,3 +15,6 @@ AtomicCorp.
 - LaTeX -- Foundation of final report presented to user
 - a pre-packaged LLM -- Turn data into LaTex output
 
+3. Libraries used
+- RustyPipe - https://docs.rs/rustypipe/latest/rustypipe/
+- ytx-cli - https://crates.io/crates/ytx-cli
