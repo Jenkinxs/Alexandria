@@ -18,6 +18,6 @@ AtomicCorp.
 3. API routing
 - User --> API Key (via Cloudflare) --> LLM API --> User
 
-5. Libraries used
+4. Libraries used
 - RustyPipe - https://docs.rs/rustypipe/latest/rustypipe/
 - ytx-cli - https://crates.io/crates/ytx-cli
