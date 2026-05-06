@@ -13,7 +13,7 @@ AtomicCorp.
 2. Supplemental scaffolding:
 - NTLK Sentiment Analysis -- Analyze comments to determine if video should be added to database
 - LaTeX -- Foundation of final report presented to user
-- a pre-packaged LLM via Cloudflare routed API -- Turn data into LaTex output
+- a pre-packaged LLM -- Turn data into summarized LaTeX output
 
 3. API routing
 - User --> API Key (via Cloudflare) --> LLM API --> User
